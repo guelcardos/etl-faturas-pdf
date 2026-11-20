@@ -1,0 +1,12 @@
+# Saídas do pipeline (reproduzíveis com python src/pipeline.py)
+dados/saida/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
